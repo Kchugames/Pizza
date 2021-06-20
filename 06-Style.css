@@ -1,3 +1,4 @@
+
 * {
 	margin: 0;
 	padding: 0;
@@ -26,7 +27,7 @@ body {
 }
 
 .navlinks{
-	background-color: blue;
+	background-color: rgb(218, 99, 21);
 	text-decoration: none;
 	color: white;
 	padding: 10px 30px 10px 30px;
@@ -100,7 +101,7 @@ ul {
 }
 
 .order h2 {
-	font font-weight: 400;
+	font-weight: 400;
 	text-transform: uppercase;
 }
 
@@ -134,7 +135,7 @@ margin-bottom:0.5em;
 	font-weight: bold;
 }
 
-.order button{
+.order button {
 	background-color: lime;
 	color: linen;
 	border: none;
