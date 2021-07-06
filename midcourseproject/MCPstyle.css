@@ -1,0 +1,41 @@
+body {
+        margin-left: auto;
+    background-image: url("https://images.unsplash.com/photo-1588841854694-b9f3fe51e979");
+    background-color: #382f2f;
+}
+
+#Image1 {
+    width: 80vw;
+    height: 70vh;
+    object-fit: scale-down;
+} 
+
+.alert {
+background-color: lawngreen;
+border-radius: .25;
+border-style: dotted;
+}
+
+#colch {
+width: 37%;
+background-color: rgb(172, 6, 6);
+margin: auto;
+font-weight: bolder;
+}
+
+
+h1 {
+    text-align: center;
+    text-shadow: darkblue;
+    text-decoration-style: wavy;
+    size: 100x;
+    font-weight: 500;
+    background-color: darkcyan;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
+/* scroll bar behav */
+/* transform: rotateY(90); */
